@@ -1,4 +1,4 @@
-A simple console-based simulator of democracy, elections, governing and making reforms. 
+A simple console-based simulator of democracy, elections, governing and making reforms. May be further developed in the future.
 Created for our school programming seminar.
 Languages used: C# (.NET, console application)
 Link to a google document with a detailed description of the game (in Czech):
